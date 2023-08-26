@@ -1,4 +1,9 @@
-[![karac web Sàrl](/docs/karac.png)](https://karac.ch)
+<p align="center">
+  <a href="https://karac.ch">
+    <img width="300" src="https://github.com/karacweb/.github/raw/main/docs/karac.png">
+  </a>
+</p>
+<br>
 
 # À propos de karac
 
